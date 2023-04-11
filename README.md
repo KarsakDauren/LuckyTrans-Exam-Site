@@ -1,1 +1,1 @@
-My-Portfolio
+Final exam project from Knew IT course
